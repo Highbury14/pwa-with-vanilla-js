@@ -1,0 +1,618 @@
+[
+ {
+   "S.No.": 1,
+   "Name of the Faculty": {
+      " Engr": {
+         "Staff": "K. Dharmaraj"
+      }
+   },
+   "Designation": "Supdt. Engineer ",
+   "Office Address": "Admin Block 3rd Floor",
+   "Email ID": "dharmarajk",
+   "Landline No.": 8154,
+   "Mobile No.": 9444008113,
+   "Photo": ""
+},
+ {
+   "S.No.": 2,
+   "Name of the Faculty": {
+      " Engr": {
+         "Staff": "V. Seenivasan"
+      }
+   },
+   "Designation": "SHO",
+   "Office Address": "Admin Block 3rd Floor",
+   "Email ID": "vsrini",
+   "Landline No.": 8162,
+   "Mobile No.": 9444008121,
+   "Photo": ""
+},
+ {
+   "S.No.": 3,
+   "Name of the Faculty": {
+      " Engr": {
+         "Staff": "M. Ramachandran"
+      }
+   },
+   "Designation": "Exe. Engineer (C) ",
+   "Office Address": "Admin Block 3rd Floor",
+   "Email ID": "chandru",
+   "Landline No.": 8161,
+   "Mobile No.": 9444008123,
+   "Photo": ""
+},
+ {
+   "S.No.": 4,
+   "Name of the Faculty": {
+      " Engr": {
+         "Staff": "K. Rizwan Ali"
+      }
+   },
+   "Designation": "Exe. Engineer (C)",
+   "Office Address": "Admin Block 3rd Floor",
+   "Email ID": "rizwank",
+   "Landline No.": 8171,
+   "Mobile No.": 9444008134,
+   "Photo": ""
+},
+ {
+   "S.No.": 5,
+   "Name of the Faculty": {
+      " Engr": {
+         "Staff": "N. R .Vineetha"
+      }
+   },
+   "Designation": "Exe. Engineer (C) ",
+   "Office Address": "Admin Block 3rd Floor Annex\t",
+   "Email ID": "vnr",
+   "Landline No.": 8196,
+   "Mobile No.": 9444396151,
+   "Photo": ""
+},
+ {
+   "S.No.": 6,
+   "Name of the Faculty": {
+      " Engr": {
+         "Staff": "K. Ravichandran"
+      }
+   },
+   "Designation": "Asst. Exe. Engr. (E ) & \nExe. Engr. (E) i/c",
+   "Office Address": "CWS Substation FF\t",
+   "Email ID": "ravi66",
+   "Landline No.": 8170,
+   "Mobile No.": 9444008133,
+   "Photo": ""
+},
+ {
+   "S.No.": 1,
+   "Name of the Faculty": {
+      " Engr": {
+         "Staff": "Ajay Krishnan"
+      }
+   },
+   "Designation": "Asst. Exe. Engr. (C) ",
+   "Office Address": "MSB Ground Floor\t",
+   "Email ID": "ajaypuli",
+   "Landline No.": 8165,
+   "Mobile No.": 9444395493,
+   "Photo": ""
+},
+ {
+   "S.No.": 2,
+   "Name of the Faculty": {
+      " Engr": {
+         "Staff": "V. Manickavasagam"
+      }
+   },
+   "Designation": "Asst. Exe. Engr. (E)",
+   "Office Address": "CWS Substation FF\t",
+   "Email ID": "mvasagam",
+   "Landline No.": 8169,
+   "Mobile No.": 9444008137,
+   "Photo": ""
+},
+ {
+   "S.No.": 3,
+   "Name of the Faculty": {
+      " Engr": {
+         "Staff": "K. Narayanaperumal"
+      }
+   },
+   "Designation": "Asst. Exe. Engr. (C)",
+   "Office Address": "Near Himalaya Mess\t",
+   "Email ID": "knp",
+   "Landline No.": 8175,
+   "Mobile No.": 9444395486,
+   "Photo": ""
+},
+ {
+   "S.No.": 4,
+   "Name of the Faculty": {
+      " Engr": {
+         "Staff": "D. Rajavel"
+      }
+   },
+   "Designation": "Asst. Exe. Engr. (C)",
+   "Office Address": "Main Pump House\t",
+   "Email ID": "rajavel",
+   "Landline No.": 8195,
+   "Mobile No.": 9444395487,
+   "Photo": ""
+},
+ {
+   "S.No.": 5,
+   "Name of the Faculty": {
+      " Engr": {
+         "Staff": "S. Padmanaban"
+      }
+   },
+   "Designation": "Asst. Exe. Engr. (T)",
+   "Office Address": "EPABX Tele-Exch FF\t",
+   "Email ID": "pads",
+   "Landline No.": 8146,
+   "Mobile No.": 9444008770,
+   "Photo": ""
+},
+ {
+   "S.No.": 6,
+   "Name of the Faculty": {
+      " Engr": {
+         "Staff": "A. Roslin Gilda"
+      }
+   },
+   "Designation": "Asst. Exe. Engr. (C)",
+   "Office Address": "BSNL Exchange 1st floor\t",
+   "Email ID": "roslin",
+   "Landline No.": 8622,
+   "Mobile No.": 9444008230,
+   "Photo": ""
+},
+ {
+   "S.No.": 7,
+   "Name of the Faculty": {
+      " Engr": {
+         "Staff": "S. Sathiya Narayanan "
+      }
+   },
+   "Designation": "Asst. Exe. Engr. (E )",
+   "Office Address": "BSNL Exchange 1st Floor, Near Shopping Center\t",
+   "Email ID": "ssnarayanan",
+   "Landline No.": 8163,
+   "Mobile No.": 9444008139,
+   "Photo": ""
+},
+ {
+   "S.No.": 1,
+   "Name of the Faculty": {
+      " Engr": {
+         "Staff": "V. Asaithambi"
+      }
+   },
+   "Designation": "Asst. Engineer (C)",
+   "Office Address": "BSNL Exchange 1st floor\t",
+   "Email ID": "asaiv",
+   "Landline No.": 8621,
+   "Mobile No.": 9444395490,
+   "Photo": ""
+},
+ {
+   "S.No.": 2,
+   "Name of the Faculty": {
+      " Engr": {
+         "Staff": "S. Ganapathy"
+      }
+   },
+   "Designation": "Asst. Engineer (C)",
+   "Office Address": "MSB Ground Floor\t",
+   "Email ID": "gana",
+   "Landline No.": 8624,
+   "Mobile No.": 9444395485,
+   "Photo": ""
+},
+ {
+   "S.No.": 3,
+   "Name of the Faculty": {
+      " Engr": {
+         "Staff": "P. Gopu"
+      }
+   },
+   "Designation": "Asst. Engineer (C)",
+   "Office Address": "MSB Ground Floor\t",
+   "Email ID": "gopu",
+   "Landline No.": 8623,
+   "Mobile No.": 9444395492,
+   "Photo": ""
+},
+ {
+   "S.No.": 4,
+   "Name of the Faculty": {
+      " Engr": {
+         "Staff": "M. Padmanaban"
+      }
+   },
+   "Designation": "Asst. Engineer (C)",
+   "Office Address": "Main Pump House\t",
+   "Email ID": "mpadma",
+   "Landline No.": 8625,
+   "Mobile No.": 9444395489,
+   "Photo": ""
+},
+ {
+   "S.No.": 5,
+   "Name of the Faculty": {
+      " Engr": {
+         "Staff": "P. Sarala "
+      }
+   },
+   "Designation": "Asst. Engineer (C)",
+   "Office Address": "Admin Block 3rd Floor",
+   "Email ID": "saral",
+   "Landline No.": 8626,
+   "Mobile No.": 9444393524,
+   "Photo": ""
+},
+ {
+   "S.No.": 6,
+   "Name of the Faculty": {
+      " Engr": {
+         "Staff": "A. Sivakumar"
+      }
+   },
+   "Designation": "Asst. Engineer (C)",
+   "Office Address": "Main Pump House\t",
+   "Email ID": "sivakumara",
+   "Landline No.": 8627,
+   "Mobile No.": 9444399154,
+   "Photo": ""
+},
+ {
+   "S.No.": 1,
+   "Name of the Faculty": {
+      " Engr": {
+         "Staff": "S. Arun Kumar"
+      }
+   },
+   "Designation": "Jr. Engineer (C)",
+   "Office Address": "Hostel Zone Civil Maintenance\t",
+   "Email ID": "arunkumar",
+   "Landline No.": 8631,
+   "Mobile No.": 9445051351,
+   "Photo": ""
+},
+ {
+   "S.No.": 2,
+   "Name of the Faculty": {
+      " Engr": {
+         "Staff": "M. Murugan"
+      }
+   },
+   "Designation": "Jr. Engineer (C)",
+   "Office Address": "Academic Zone Civil Maintenance\t",
+   "Email ID": "murugan",
+   "Landline No.": 8633,
+   "Mobile No.": 9445051352,
+   "Photo": ""
+},
+ {
+   "S.No.": 3,
+   "Name of the Faculty": {
+      " Engr": {
+         "Staff": "S. Rajasekar"
+      }
+   },
+   "Designation": "Jr. Engineer (C)",
+   "Office Address": "Admin Block 3rd Floor Annex\t",
+   "Email ID": "rajasekar",
+   "Landline No.": 8634,
+   "Mobile No.": 9445051353,
+   "Photo": ""
+},
+ {
+   "S.No.": 4,
+   "Name of the Faculty": {
+      " Engr": {
+         "Staff": "R. Srivathsan"
+      }
+   },
+   "Designation": "Jr. Engineer (C)",
+   "Office Address": "Civil Design Admin Block 3rd Floor\t",
+   "Email ID": "srivathsan",
+   "Landline No.": 8632,
+   "Mobile No.": 9445051354,
+   "Photo": ""
+},
+ {
+   "S.No.": 5,
+   "Name of the Faculty": {
+      " Engr": {
+         "Staff": "P. Viswanathan"
+      }
+   },
+   "Designation": "Jr. Engineer (E)",
+   "Office Address": "Academic Zone Electrical Maintenance\t",
+   "Email ID": "viswanathan",
+   "Landline No.": 8635,
+   "Mobile No.": 9444008127,
+   "Photo": ""
+},
+ {
+   "S.No.": 6,
+   "Name of the Faculty": {
+      " Engr": {
+         "Staff": "Shaik Riyaz"
+      }
+   },
+   "Designation": "Jr. Engineer (E)",
+   "Office Address": "Near Central Workshop\t",
+   "Email ID": "shaik.riyaz",
+   "Landline No.": 8637,
+   "Mobile No.": 9445093120,
+   "Photo": ""
+},
+ {
+   "S.No.": 7,
+   "Name of the Faculty": {
+      " Engr": {
+         "Staff": "N. Ramadoss"
+      }
+   },
+   "Designation": "Horticulture Assistant",
+   "Office Address": "Horticulture Section\t",
+   "Email ID": "nramadoss",
+   "Landline No.": 8636,
+   "Mobile No.": 9444008120,
+   "Photo": ""
+},
+ {
+   "S.No.": 1,
+   "Name of the Faculty": {
+      " Engr": {
+         "Staff": "K. Mathaiyan"
+      }
+   },
+   "Designation": "Sr. Technician (E)",
+   "Office Address": "33/11kV Substation Near Velachery Gate\t",
+   "Email ID": "mathaiyan",
+   "Landline No.": 8189,
+   "Mobile No.": 9445093121,
+   "Photo": ""
+},
+ {
+   "S.No.": 2,
+   "Name of the Faculty": {
+      " Engr": {
+         "Staff": "S. Rajamani"
+      }
+   },
+   "Designation": "Sr. Technician (M)",
+   "Office Address": "AC Unit Maintenance Near Central Workshop\t",
+   "Email ID": "rajamani67",
+   "Landline No.": 8197,
+   "Mobile No.": 9445093122,
+   "Photo": ""
+},
+ {
+   "S.No.": 3,
+   "Name of the Faculty": {
+      " Engr": {
+         "Staff": "G. Veeramani"
+      }
+   },
+   "Designation": "Sr. Technician (E)",
+   "Office Address": "33/11kV Substation Near Velachery Gate\t",
+   "Email ID": "jeevee",
+   "Landline No.": 8189,
+   "Mobile No.": 9445093125,
+   "Photo": ""
+},
+ {
+   "S.No.": 4,
+   "Name of the Faculty": {
+      " Engr": {
+         "Staff": "P. Jeyakumar"
+      }
+   },
+   "Designation": "Jr. Technician (C)",
+   "Office Address": "Academic Zone Civil MSB GF\t",
+   "Email ID": "jey",
+   "Landline No.": 8188,
+   "Mobile No.": 9445051355,
+   "Photo": ""
+},
+ {
+   "S.No.": 5,
+   "Name of the Faculty": {
+      " Engr": {
+         "Staff": "P. Kumaresan"
+      }
+   },
+   "Designation": "Jr. Technician (E)",
+   "Office Address": "33/11kV Substation Near Velachery Gate\t",
+   "Email ID": "kumarp",
+   "Landline No.": 8193,
+   "Mobile No.": 9445093126,
+   "Photo": ""
+},
+ {
+   "S.No.": 6,
+   "Name of the Faculty": {
+      " Engr": {
+         "Staff": "N. Sarveshnadh"
+      }
+   },
+   "Designation": "Jr. Technician (M)",
+   "Office Address": "",
+   "Email ID": "sarveshnadh",
+   "Landline No.": 8187,
+   "Mobile No.": 9445093128,
+   "Photo": ""
+},
+ {
+   "S.No.": 7,
+   "Name of the Faculty": {
+      " Engr": {
+         "Staff": "S. Ravikanth Reddy"
+      }
+   },
+   "Designation": "Jr. Technician (C)",
+   "Office Address": "Water Supply Unit Main Pump House\t",
+   "Email ID": "ravikanth",
+   "Landline No.": 8190,
+   "Mobile No.": 9445051356,
+   "Photo": ""
+},
+ {
+   "S.No.": 8,
+   "Name of the Faculty": {
+      " Engr": {
+         "Staff": "Saikat Mitra"
+      }
+   },
+   "Designation": "Jr. Technician (E)",
+   "Office Address": "Academic Zone Maintenance Near Central Workshop\t",
+   "Email ID": "sktmtr08",
+   "Landline No.": 8189,
+   "Mobile No.": 9445093127,
+   "Photo": ""
+},
+ {
+   "S.No.": 9,
+   "Name of the Faculty": {
+      " Engr": {
+         "Staff": "M. Senthurkumar"
+      }
+   },
+   "Designation": "Jr. Technician (C)",
+   "Office Address": "Projects",
+   "Email ID": "senthur",
+   "Landline No.": 8634,
+   "Mobile No.": 9445051357,
+   "Photo": ""
+},
+ {
+   "S.No.": 10,
+   "Name of the Faculty": {
+      " Engr": {
+         "Staff": "Shivasharanappa"
+      }
+   },
+   "Designation": "Jr. Technician (C)",
+   "Office Address": "Hostel Zone Maintenance WQ-07\t",
+   "Email ID": "shivasharan",
+   "Landline No.": 8186,
+   "Mobile No.": 9445051358,
+   "Photo": ""
+},
+ {
+   "S.No.": 11,
+   "Name of the Faculty": {
+      " Engr": {
+         "Staff": "R. Venkatesan"
+      }
+   },
+   "Designation": "Jr. Technician (C)",
+   "Office Address": "Civil Design, Admin Block 3rd Floor\t",
+   "Email ID": "venkatesanr",
+   "Landline No.": 8173,
+   "Mobile No.": 9445051359,
+   "Photo": ""
+},
+ {
+   "S.No.": 12,
+   "Name of the Faculty": {
+      " Engr": {
+         "Staff": "S. Velavan"
+      }
+   },
+   "Designation": "Jr. Technician (E)",
+   "Office Address": "Hostel Zone Maintenance WQ-07\t",
+   "Email ID": "velavan",
+   "Landline No.": 8187,
+   "Mobile No.": 9445093129,
+   "Photo": ""
+},
+ {
+   "S.No.": 13,
+   "Name of the Faculty": {
+      " Engr": {
+         "Staff": "Acharya S. K"
+      }
+   },
+   "Designation": "Jr. Technician (C)",
+   "Office Address": "",
+   "Email ID": "acharya",
+   "Landline No.": 8188,
+   "Mobile No.": 0,
+   "Photo": ""
+},
+ {
+   "S.No.": 14,
+   "Name of the Faculty": {
+      " Engr": {
+         "Staff": "T Anand"
+      }
+   },
+   "Designation": "Jr. Technician (E)",
+   "Office Address": "",
+   "Email ID": "tanand",
+   "Landline No.": 8189,
+   "Mobile No.": 0,
+   "Photo": ""
+},
+ {
+   "S.No.": 15,
+   "Name of the Faculty": {
+      " Engr": {
+         "Staff": "Vishal B"
+      }
+   },
+   "Designation": "Jr. Technician (Tele)",
+   "Office Address": "EPABX Exchange Near Admin Block\t",
+   "Email ID": "vishalb",
+   "Landline No.": 8142,
+   "Mobile No.": 0,
+   "Photo": ""
+},
+ {
+   "S.No.": 16,
+   "Name of the Faculty": {
+      " Engr": {
+         "Staff": "V Kishore Kumar"
+      }
+   },
+   "Designation": "Jr. Technician (C)",
+   "Office Address": "",
+   "Email ID": "kishorekumar",
+   "Landline No.": 8634,
+   "Mobile No.": 0,
+   "Photo": ""
+},
+ {
+   "S.No.": 17,
+   "Name of the Faculty": {
+      " Engr": {
+         "Staff": "V Arokyadoss"
+      }
+   },
+   "Designation": "Jr. Technician (E)",
+   "Office Address": "",
+   "Email ID": "arokyadoss",
+   "Landline No.": 8189,
+   "Mobile No.": 0,
+   "Photo": ""
+},
+ {
+   "S.No.": 18,
+   "Name of the Faculty": {
+      " Engr": {
+         "Staff": "Althi Dhananjayarao"
+      }
+   },
+   "Designation": "Jr. Technician (E)",
+   "Office Address": "",
+   "Email ID": "dhananjaya",
+   "Landline No.": 8189,
+   "Mobile No.": 0,
+   "Photo": ""
+}
+]

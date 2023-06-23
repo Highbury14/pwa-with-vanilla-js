@@ -1,0 +1,584 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="utf-8">
+  <meta content="width=device-width, initial-scale=1.0" name="viewport">
+
+  <title>Indian Institute of Technology Madras</title>
+  <meta content="" name="description">
+  <meta content="" name="keywords">
+
+  <!-- Favicons -->
+  <link rel="shortcut icon" href="https://enggunit.iitm.ac.in/includes/assets/img/logo.png">
+  <link href="https://enggunit.iitm.ac.in/includes/assets/img/logo.png" rel="apple-touch-icon">
+
+  <!-- Google Fonts -->
+  <link
+    href="https://fonts.googleapis.com/css?family=Open+Sans:300,400,400i,600,700|Raleway:300,400,400i,500,500i,700,800,900"
+    rel="stylesheet">
+
+  <!-- Vendor CSS Files -->
+  <link href="https://enggunit.iitm.ac.in/includes/assets/vendor/animate.css/animate.min.css" rel="stylesheet">
+  <link href="https://enggunit.iitm.ac.in/includes/assets/vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+  <link href="https://enggunit.iitm.ac.in/includes/assets/vendor/bootstrap-icons/bootstrap-icons.css" rel="stylesheet">
+  <link href="https://enggunit.iitm.ac.in/includes/assets/vendor/boxicons/css/boxicons.min.css" rel="stylesheet">
+  <link href="https://enggunit.iitm.ac.in/includes/assets/vendor/glightbox/css/glightbox.min.css" rel="stylesheet">
+  <link href="https://enggunit.iitm.ac.in/includes/assets/vendor/swiper/swiper-bundle.min.css" rel="stylesheet">
+
+  <!-- <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/5.0.1/css/bootstrap.min.css"> -->
+  <link rel="stylesheet" href="https://cdn.datatables.net/1.11.3/css/dataTables.bootstrap5.min.css">
+  <link rel="stylesheet" href="https://cdn.datatables.net/fixedheader/3.2.0/css/fixedHeader.bootstrap.min.css">
+  <link rel="stylesheet" href="https://cdn.datatables.net/responsive/2.2.9/css/responsive.bootstrap.min.css">
+
+  <link rel="stylesheet" href="https://pro.fontawesome.com/releases/v5.10.0/css/all.css"
+    integrity="sha384-AYmEC3Yw5cVb3ZcuHtOA93w35dYTsvhLPVnYs9eStHfGJvOvKxVfELGroGkvsg+p" crossorigin="anonymous" />
+
+  <!-- Template Main CSS File -->
+  <link href="https://enggunit.iitm.ac.in/includes/assets/css/style.css" rel="stylesheet">
+  <style type="text/css">
+    /* .chairsps1 {
+      width: 300px;
+    }
+
+    .chairp1 {
+      float: left;
+    }
+
+    .cochairp2 {
+      float: right;
+    }*/
+    .card {
+      border: 1px solid rgba(0, 0, 0, .125);
+    }
+    .card ul {
+      font-size: 18px;
+    }
+    div.textcolb3 {
+      color: #3ec1d5;
+    }
+    #chart_div > table {
+      width: 100%;
+    }
+  </style>
+</head>
+
+<body>
+
+  <!-- ======= Header ======= -->
+
+  <div id="top-bar" class="top-bar">
+    <div class="container">
+      <div class="row">
+        <div class="col-sm-6">
+          <div class="tel-no">
+
+            <p class="info-text" style="color:black; display:table-cell; vertical-align: middle;"><i
+                class="bi bi-telephone-inbound"></i>&nbsp;+91-44-2257-8151</p>&nbsp;&nbsp;
+            <!--a type="button" data-bs-toggle="modal" data-bs-target="#whatsappModal" style="color:black; display:inline-block"><i class="bi bi-whatsapp">&nbsp;9876 543 210</i></a-->
+          </div>
+        </div>
+        <!--/ Top info end -->
+
+        <div class="col-sm-6 top-social text-center text-md-right header-icons">
+          <ul style="text-align: right;">
+            <!-- a href="/includes/pdf/Maintenance_Engineers_2015.pdf" target="_blank">Maintenance</a><strong> | </strong -->
+            <a href="https://enggunit.iitm.ac.in/tender" target="_blank">Tenders Awarded</a><strong>
+              | </strong>
+            <a href="/includes/pdf/campusmap.pdf" target="_blank">Campus Map</a><strong> | </strong><a
+              href="http://tenders.iitm.ac.in/" target="_blank">Tenders</a><strong> | </strong>
+            <a href='https://enggunit.iitm.ac.in/login' class='btn btn-dark btn-sm btn-flat button'>Login</a><strong> |
+            </strong>
+
+            <li>
+              <a href="https://www.facebook.com/ReachIITM" target="_blank"><i class="bi bi-facebook"></i></a>
+            </li>
+            <li>
+              <a href="https://twitter.com/ReachIITM" target="_blank"><i class="bi bi-twitter"></i></a>
+            </li>
+            <li>
+              <a href="#" target="_blank"><i class="bi bi-rss"></i></a>
+            </li>
+            <li>
+              <a href="https://enggunit.iitm.ac.in/teledir"><i class="fas fa-phone-office"></i></a>
+            </li>
+
+          </ul>
+
+        </div>
+        <!--/ Top social end -->
+      </div>
+      <!--/ Content row end -->
+    </div>
+    <!--/ Container end -->
+  </div>
+  <!-- whatsapp Modal -->
+  <div class="modal fade" id="whatsappModal" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+    <div class="modal-dialog">
+      <div class="modal-content">
+
+        <div class="modal-body">
+          <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"
+            style="float:right;"></button>
+
+          <div class="whatsapp_qrcode">
+            <h5 style="text-align: center;">WhatsApp</h5>
+            <h5 style="text-align: center;">IITM</h5>
+            <img src="https://enggunit.iitm.ac.in/includes/assets/img/qrcode_3743521_.png" alt="">
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <!--/ Topbar end -->
+  <header id="header" class="d-flex align-items-center">
+
+    <div class="container d-flex justify-content-between">
+
+      <div class="logo">
+
+        <div class="row" style="display: table; height: 100px; overflow: hidden;">
+          <div class="col-3" style="display: table-cell; vertical-align: middle; text-align:right;">
+            <img src="https://enggunit.iitm.ac.in/includes/assets/img/logo.png" />
+          </div>
+          <div class="col-9" style="display: table-cell; vertical-align: bottom; padding:0px">
+            <h4 class="head_title"><a href="https://enggunit.iitm.ac.in/" style="color:white;">Indian Institute of
+                Technology Madras <br><span class="headsub_title" style="font-size: 18px; color:#3ec1d5">Engineering
+                  Unit</span></a></h4>
+          </div>
+        </div>
+      </div>
+      <nav id="navbar" class="navbar">
+        <ul>
+          <li><a class="nav-link scrollto " href="https://enggunit.iitm.ac.in/">Home</a></li>
+          <li class="dropdown"><a href="#" class=" active "><span>People</span> <i class="bi bi-chevron-down"></i></a>
+            <ul class="dropdown-menu">
+              <li><a class=" active " href="https://enggunit.iitm.ac.in/people/organizational_chart">Organizational
+                  Chart</a></li>
+              <li><a href="https://enggunit.iitm.ac.in/people/chairman/list" class="">Chairman</a></li>
+              <li><a href="https://enggunit.iitm.ac.in/people/co-chairman/list" class="">Co-Chairman</a></li>
+              <li><a href="https://enggunit.iitm.ac.in/people/ex-chairman/list" class="">Ex-Chairperson</a></li>
+              <li><a href="https://enggunit.iitm.ac.in/people/staff/list" class="">Staff</a></li>
+            </ul>
+          </li>
+          <li class="dropdown"><a href="#" class=""><span>Activity</span> <i class="bi bi-chevron-down"></i></a>
+            <ul class="dropdown-menu">
+              <li><a href="https://enggunit.iitm.ac.in/activity/enggunithandbook" class="">Engg Unit Handbook</a></li>
+              <li><a href="https://enggunit.iitm.ac.in/activity/inandout_gate" class="">IN and OUT Gate</a></li>
+              <li><a href="https://enggunit.iitm.ac.in/activity/Construction_of_Sarayu_Hostel" class="">Sarayu
+                  Hostel</a></li>
+              <li><a href="https://enggunit.iitm.ac.in/activity/Construction_of_New_G1_type_Quarters" class="">G1 Type
+                  Quarters</a></li>
+              <li><a href="https://enggunit.iitm.ac.in/activity/Facelifting_of_BEGH-TGH" class="">Facelifting of
+                  BEGH-TGH</a></li>
+              <li class="dropdown"><a href="#" class=""><span>Maintenance</span> <i class="bi bi-chevron-right"></i></a>
+                <ul class="dropdown-menu">
+                  <li><a href="https://enggunit.iitm.ac.in/activity/maintenance/civil_division" class="">Civil
+                      Maintance</a></li>
+                  <li><a href="https://enggunit.iitm.ac.in/activity/maintenance/electrical_division" class="">Electrical
+                      Maintance</a></li>
+                </ul>
+              </li>
+              <li><a href="https://enggunit.iitm.ac.in/activity/minutes_quarters_facilities_committee" class="">Minutes
+                  of Quarters Facilities Committee</a></li>
+              <li><a href="https://enggunit.iitm.ac.in/activity/tank_cleaning_schedule" class="">Tank Cleaning
+                  Schedule</a></li>
+              <li><a href="https://enggunit.iitm.ac.in/activity/ProjectStatusReport/list" class="">Project Status
+                  Report</a></li>
+              <!-- li><a href="https://enggunit.iitm.ac.in/activity/projectone/list" class="">Project 1</a></li>
+              <li><a href="https://enggunit.iitm.ac.in/activity/projecttwo/list" class="">Project 2</a></li>
+              <li><a href="https://enggunit.iitm.ac.in/activity/projectthree/list" class="">Project 3</a></li>
+              <li><a href="https://enggunit.iitm.ac.in/activity/projectfour/list" class="">Project 4</a></li>
+              <li><a href="https://enggunit.iitm.ac.in/activity/projectfive/list" class="">Project 5</a></li -->
+            </ul>
+          </li>
+          <li class="dropdown"><a href="#" class=""><span>Division</span> <i class="bi bi-chevron-down"></i></a>
+            <ul class="dropdown-menu">
+              <li class="dropdown dropend"><a href="#" class=""><span>Zone</span> <i
+                    class="bi bi-chevron-right"></i></a>
+                <ul class="dropdown-menu">
+                  <li><a href="https://enggunit.iitm.ac.in/division/zone/academic_zone_information" class="">Academic
+                      Zone</a></li>
+                  <li><a href="https://enggunit.iitm.ac.in/division/zone/hostel_zone" class="">Hostel Zone</a></li>
+                  <li><a href="https://enggunit.iitm.ac.in/division/zone/residential_zone" class="">Residential Zone</a>
+                  </li>
+                </ul>
+              </li>
+              <li><a href="https://enggunit.iitm.ac.in/division/horticulture" class="">Horticulture</a></li>
+              <li><a href="https://enggunit.iitm.ac.in/division/water_supply" class="">Water Supply &amp; Drainage</a>
+              </li>
+              <li><a href="https://enggunit.iitm.ac.in/division/public_health" class="">Public Health</a></li>
+              <li><a href="https://enggunit.iitm.ac.in/division/telephone_exchange_division" class="">Telephones
+                  Exchange</a></li>
+              <li><a href="https://enggunit.iitm.ac.in/division/civil_design_development" class="">Civil Design &amp;
+                  Development</a></li>
+            </ul>
+          </li>
+          <li><a class="nav-link scrollto " href="https://iscms.iitm.ac.in/CRM/userlogin.php"
+              target="_blank">Maintenance Request</a></li>
+          <li><a class="nav-link scrollto " href="https://enggunit.iitm.ac.in/contact_us">Contact us</a></li>
+        </ul>
+        <i class="bi bi-list mobile-nav-toggle"></i>
+      </nav><!-- .navbar -->
+
+    </div>
+  </header><!-- End Header -->
+
+
+  <main id="main">
+    <div class="container">
+      <div class="row title-top">
+        <div class="col-md-12 col-sm-12 col-xs-12">
+          <div class="section-headline text-center" style="max-height: 80px;">
+            <h2 class="ctitle" style="font-size: 28px;">Organizational Chart</h2>
+          </div>
+        </div>
+      </div>
+      <div class="row">
+
+        <!-- single-well end-->
+        <div class="col-xs-12 about" style="padding-bottom: 10px;">
+          <div class="card">
+            <div class="card-header" style="text-align: center;">
+              <!---start-->
+
+              <!--<p style="display: inline-block; font-size:20px">&nbsp;Coming Soon</p> -->
+              <div id="chart_div"></div>
+              <!---end-->
+            </div>
+
+          </div>
+        </div>
+        <!-- End col-->
+      </div>
+    </div>
+  </main><!-- End #main -->
+
+
+
+  <!-- ======= Footer ======= -->
+  <footer>
+    <div class="footer-area">
+      <div class="container">
+        <div class="row">
+          <div class="col-md-4">
+            <div class="footer-content">
+              <div class="footer-head">
+                <div class="footer-logo">
+                  <h4>Indian Institute of Technology Madras</h4>
+                </div>
+                <p>The Engineering Unit was established in the year 1970. It is one of the important service units which
+                  plays a vital role providing the requisite infrastructure facilities such as electricity, telephones,
+                  water supply, disposal of sewage and solid waste, roads and pathways, parks and gardens and all other
+                  amenities in the campus.</p>
+                <div class="footer-icons">
+                  <ul>
+                    <li>
+                      <a href="https://www.facebook.com/ReachIITM" target="_blank"><i class="bi bi-facebook"></i></a>
+                    </li>
+                    <li>
+                      <a href="https://twitter.com/ReachIITM" target="_blank"><i class="bi bi-twitter"></i></a>
+                    </li>
+                    <li>
+                      <a href="#" target="_blank"><i class="bi bi-instagram"></i></a>
+                    </li>
+                    <li>
+                      <a href="#" target="_blank"><i class="bi bi-rss"></i></a>
+                    </li>
+                  </ul>
+                </div>
+              </div>
+            </div>
+          </div>
+          <!-- end single footer -->
+          <div class="col-md-4">
+            <div class="footer-content">
+              <div class="footer-head">
+                <h4>information</h4>
+                <p>
+                  Indian Institute of Technology Madras, Chennai, Tamilnadu, Pincode : 600036.
+                </p>
+                <div class="footer-contacts">
+                  <p><span>Tel:</span> +91-44-2257-8151</p>
+                  <p><span>Email:</span> euoffice@iitm.ac.in</p>
+                  <p><span>Working Hours:</span> 9.00am-5.30pm (Monday to Friday)</p>
+                </div>
+              </div>
+            </div>
+          </div>
+          <!-- end single footer -->
+          <div class="col-md-4">
+            <div class="footer-content">
+              <div class="footer-head">
+                <h4>Photos</h4>
+                <div class="flicker-img">
+                  <a href="#"><img src="https://enggunit.iitm.ac.in/includes/assets/img/portfolio/21.jpg" alt=""></a>
+                  <a href="#"><img src="https://enggunit.iitm.ac.in/includes/assets/img/portfolio/22.jpg" alt=""></a>
+                  <a href="#"><img src="https://enggunit.iitm.ac.in/includes/assets/img/portfolio/iitm4.jpg" alt=""></a>
+                  <a href="#"><img src="https://enggunit.iitm.ac.in/includes/assets/img/portfolio/iitm3.jpg" alt=""></a>
+                  <a href="#"><img src="https://enggunit.iitm.ac.in/includes/assets/img/portfolio/25.jpg" alt=""></a>
+                  <a href="#"><img src="https://enggunit.iitm.ac.in/includes/assets/img/portfolio/iitm1.jpg" alt=""></a>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="footer-area-bottom">
+      <div class="container">
+        <div class="row">
+          <div class="col-md-12 col-sm-12 col-xs-12">
+            <div class="copyright text-center">
+              <p>
+                Copyright &copy; 2021
+                <a class="text-blue text-decoration-none" href="http://qbeing.info/">Qbeing Technologies</a>
+                . All rights reserved.
+              </p>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </footer>
+  <!-- End  Footer -->
+
+  <div id="preloader"></div>
+  <a href="#" class="back-to-top d-flex align-items-center justify-content-center"><i
+    class="bi bi-arrow-up-short"></i></a>
+
+  <!-- Modal -->
+  <div class="modal fade" id="exampleModal1" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+    <div class="modal-dialog modal-dialog-centered modal-xl">
+      <div class="modal-content" style="width:100% !important">
+        <div class="modal-header">
+          <h5 class="modal-title fw-bold" id="exampleModalLabel"></h5>
+          <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+        </div>
+        <div class="modal-body" style="background:none">
+          <div class="container-fluid">
+            <div class="row">
+              <div class="card col col-6" style="">
+                <ul class="list-group list-group-flush">
+                  <li class="list-group-item">
+                    <span class="fw-bold">Name :</span>
+                    <span class="fw-normal" id="vempname1"></span>
+                  </li>
+                  <li class="list-group-item">
+                    <span class="fw-bold">Office Address :</span>
+                    <span class="fw-normal" id="vempoffa1"></span>
+                  </li>
+                  <li class="list-group-item">
+                    <span class="fw-bold">Phone :</span>
+                    <span class="fw-normal" id="vempphone1"></span>
+                  </li>
+                </ul>
+              </div>
+              <div class="card col col-6" style="">
+                <ul class="list-group list-group-flush">
+                  <li class="list-group-item">
+                    <span class="fw-bold">Designation :</span>
+                    <span class="fw-normal" id="vempdesig1"></span>
+                  </li>
+                  <li class="list-group-item">
+                    <span class="fw-bold">Email :</span>
+                    <span class="fw-normal" id="vempemail1"></span>
+                  </li>
+                  <li class="list-group-item">
+                    <span class="fw-bold">Mobile :</span>
+                    <span class="fw-normal" id="vempmob1"></span>
+                  </li>
+                </ul>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="modal-footer">
+          <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Close</button>
+          <!-- <button type="button" class="btn btn-primary">Save changes</button> -->
+        </div>
+      </div>
+    </div>
+  </div>
+  <!-- Vendor JS Files -->
+  <script src="https://enggunit.iitm.ac.in/includes/assets/vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+  <script src="https://enggunit.iitm.ac.in/includes/assets/vendor/glightbox/js/glightbox.min.js"></script>
+  <script src="https://enggunit.iitm.ac.in/includes/assets/vendor/isotope-layout/isotope.pkgd.min.js"></script>
+  <script src="https://enggunit.iitm.ac.in/includes/assets/vendor/php-email-form/validate.js"></script>
+  <script src="https://enggunit.iitm.ac.in/includes/assets/vendor/swiper/swiper-bundle.min.js"></script>
+
+  <script src="https://code.jquery.com/jquery-3.5.1.js"></script>
+  <script src="https://cdn.datatables.net/1.11.3/js/jquery.dataTables.min.js"></script>
+  <script src="https://cdn.datatables.net/1.11.3/js/dataTables.bootstrap5.min.js"></script>
+  <script src="https://cdn.datatables.net/fixedheader/3.2.0/js/dataTables.fixedHeader.min.js"></script>
+  <script src="https://cdn.datatables.net/responsive/2.2.9/js/dataTables.responsive.min.js"></script>
+  <script src="https://cdn.datatables.net/responsive/2.2.9/js/responsive.bootstrap.min.js"></script>
+  <script type="text/javascript" src="https://www.gstatic.com/charts/loader.js"></script>
+  <script type="text/javascript">
+    const empslist1 = [
+    {
+      sNo: '1a',
+      name: "Prof. S. A. Sannasiraj",
+      designation: "Chairperson",
+      officeAddress: "Admin Block 3rd Floor",
+      emailID: "sasrajk",
+      landlineNo: 8150,
+      mobileNo: 9444008110,
+    },
+    {
+      sNo: '1b',
+      name: "Prof. Balaji Narasimhan",
+      designation: "Co-Chairperson",
+      officeAddress: "Admin Block 3rd Floor",
+      emailID: "nbalaji",
+      landlineNo: 8159,
+      mobileNo: 9444008063,
+    },
+    {
+      sNo: '1',
+      name: "K. Dharmaraj",
+      designation: "Supdt. Engineer ",
+      officeAddress: "Admin Block 3rd Floor",
+      emailID: "dharmarajk",
+      landlineNo: 8154,
+      mobileNo: 9444008113,
+    },
+    {
+      sNo: '2',
+      name: "V. Seenivasan",
+      designation: "SHO",
+      officeAddress: "Admin Block 3rd Floor",
+      emailID: "vsrini",
+      landlineNo: 8162,
+      mobileNo: 9444008121,
+    },
+    {
+      sNo: '3',
+      name: "M. Ramachandran",
+      designation: "Exe. Engineer (C) ",
+      officeAddress: "Admin Block 3rd Floor",
+      emailID: "chandru",
+      landlineNo: 8161,
+      mobileNo: 9444008123,
+    },
+    {
+      sNo: '4',
+      name: "K. Rizwan Ali",
+      designation: "Exe. Engineer (C)",
+      officeAddress: "Admin Block 3rd Floor",
+      emailID: "rizwank",
+      landlineNo: 8171,
+      mobileNo: 9444008134,
+    },
+    {
+      sNo: '5',
+      name: "N. R .Vineetha",
+      designation: "Exe. Engineer (C) ",
+      officeAddress: "Admin Block 3rd Floor Annex\t",
+      emailID: "vnr",
+      landlineNo: 8196,
+      mobileNo: 9444396151,
+    },
+    {
+      sNo: '6',
+      name: "K. Ravichandran",
+      designation: "Asst. Exe. Engr. (E ) & \nExe. Engr. (E) i/c",
+      officeAddress: "CWS Substation FF\t",
+      emailID: "ravi66",
+      landlineNo: 8170,
+      mobileNo: 9444008133,
+    }]
+    google.charts.load('current', { packages: ["orgchart"] });
+    google.charts.setOnLoadCallback(drawChart);
+
+    function drawChart() {
+      var data = new google.visualization.DataTable();
+      data.addColumn('string', 'Name');
+      data.addColumn('string', 'Manager');
+      data.addColumn('string', 'ToolTip');
+
+      // For each orgchart box, provide the name, manager, and tooltip to show.
+      data.addRows([
+        [{ 'v': 'Chairperson', 'f': '<div class="chairsps1 row">' +
+            '<a class="col col-6" data-bs-toggle="modal" data-bs-target="#exampleModal1" data-bs-empid1="1a">' +
+              '<div class="dtitletxt1">Chairperson (EU)</div>' +
+              '<div class="text-danger fw-bold">Prof. S. A. Sannasiraj</div>' +
+            '</a>' +
+            '<a class="col col-6" data-bs-toggle="modal" data-bs-target="#exampleModal1" data-bs-empid1="1b">' +
+              '<div class="dtitletxt1">Co-Chairperson (EU)</div>' +
+              '<div class="text-danger fw-bold">Prof. Balaji Narasimhan</div>' +
+            '</a>' +
+          '</div>' }, '', ''],
+        [{ 'v': 'SuperintendingEngg', 'f': '<a data-bs-toggle="modal" data-bs-target="#exampleModal1" data-bs-empid1="1">' +
+            '<div class="dtitletxt1">Superintending Engineer</div>' +
+            '<div class="text-danger fw-bold">K. Dharmaraj</div>' +
+          '</a>' }, 'Chairperson', 'Superintending Engineer'],
+        [{ 'v': 'EE C Project', 'f': '<a data-bs-toggle="modal" data-bs-target="#exampleModal1" data-bs-empid1="2">' +
+            '<div class="dtitletxt1">EE C Project</div>' +
+            '<div class="text-danger fw-bold">V. Seenivasan</div>' +
+          '</a>'}, 'SuperintendingEngg', ''],
+        [{ 'v': 'EE Civil Maintenance / Water', 'f': '<a data-bs-toggle="modal" data-bs-target="#exampleModal1" data-bs-empid1="3">' +
+            '<div class="dtitletxt1">EE Civil Maintenance / Water</div>' +
+            '<div class="text-danger fw-bold">M. Ramachandran</div>' +
+          '</a>'}, 'SuperintendingEngg', ''],
+        [{ 'v': 'JR/DR/AR (EU)', 'f': '<a data-bs-toggle="modal" data-bs-target="#exampleModal1" data-bs-empid1="4">' +
+            '<div class="dtitletxt1">JR/DR/AR (EU)</div>' +
+            '<div class="text-danger fw-bold">K. Rizwan Ali</div>' +
+          '</a>'}, 'SuperintendingEngg', ''],
+        [{ 'v': 'EE Civil DB', 'f': '<a data-bs-toggle="modal" data-bs-target="#exampleModal1" data-bs-empid1="5">' +
+            '<div class="dtitletxt1">EE Civil DB</div>' +
+            '<div class="text-danger fw-bold">N. R. Vineetha</div>' +
+          '</a>'}, 'SuperintendingEngg', ''],
+        [{ 'v': 'Sr. Horticulture Officer', 'f': '<a data-bs-toggle="modal" data-bs-target="#exampleModal1" data-bs-empid1="6">' +
+            '<div class="dtitletxt1">Sr. Horticulture Officer</div>' +
+            '<div class="text-danger fw-bold">K. Ravichandran</div>' +
+          '</a>'}, 'SuperintendingEngg', ''],
+        [{ 'v': 'EE Electrical', 'f': '<a data-bs-toggle="modal" data-bs-target="#exampleModal1" data-bs-empid1="6">' +
+            '<div class="dtitletxt1">EE Electrical</div>' +
+            '<div class="text-danger fw-bold"></div>' +
+          '</a>'}, 'SuperintendingEngg', '']
+      ]);
+      
+      data.setRowProperty(0, 'style', 'width:25%')
+
+      // Create the chart.
+      var chart = new google.visualization.OrgChart(document.getElementById('chart_div'));
+      // Draw the chart, setting the allowHtml option to true for the tooltips.
+      chart.draw(data, { 'allowCollapse': true, 'allowHtml': true, size: 'large' });
+    }
+
+    $(document).ready(function () {
+      var table = $('#example').DataTable({
+        responsive: true,
+        pageLength: 50
+      });
+
+    });
+  </script>
+  <!-- Template Main JS File -->
+  <script src="https://enggunit.iitm.ac.in/includes/assets/js/main.js" type="text/javascript"></script>
+  <script type="text/javascript">
+    $(document).ready(function () {
+      $('#msg').delay(2000).fadeOut();
+    });
+    if ($(window).width() < 797) {
+      $('#carousel-caption').remove();
+    }
+    var myModalEl = document.getElementById('exampleModal1')
+    myModalEl.addEventListener('show.bs.modal', function (event) {
+      // do something...
+      // console.log(event.relatedTarget.firstElementChild.innerHTML)
+      $("#exampleModalLabel").text(event.relatedTarget.firstElementChild.innerHTML)
+      empid1 = event.relatedTarget.getAttribute('data-bs-empid1')
+      const result1 = empslist1.find(({ sNo }) => sNo === empid1);
+      $("#vempname1").text(result1.name)
+      $("#vempoffa1").text(result1.officeAddress)
+      $("#vempphone1").text(result1.landlineNo)
+      $("#vempdesig1").text(result1.designation)
+      $("#vempemail1").text(result1.emailID)
+      $("#vempmob1").text(result1.mobileNo)
+    })
+  </script>
+</body>
+
+</html>
