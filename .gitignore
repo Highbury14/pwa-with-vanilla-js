@@ -1,1 +1,3 @@
 engg-unit-website-pwa.code-workspace
+js/node_modules/
+.vite/
